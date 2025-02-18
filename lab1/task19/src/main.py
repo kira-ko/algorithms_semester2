@@ -1,5 +1,3 @@
-
-
 def matrix_chain_order(dimensions):
     n = len(dimensions) - 1  #количество матриц
     dp = [[0] * n for _ in range(n)]  #массив для хранения минимальных операций
