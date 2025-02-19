@@ -8,7 +8,7 @@ def max_expression_value(expression):
     dp_max = [[0] * n for _ in range(n)]
     dp_min = [[0] * n for _ in range(n)]
 
-    #Инициализация для выражений длины 1
+    #Инициализация
     for i in range(n):
         dp_max[i][i] = nums[i]
         dp_min[i][i] = nums[i]
