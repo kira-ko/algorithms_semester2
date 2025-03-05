@@ -1,5 +1,3 @@
-import sys
-
 class TreeNode:
     def __init__(self, key, left=None, right=None):
         """Создаем узел дерева с ключом и указателями на левого и правого потомка"""
