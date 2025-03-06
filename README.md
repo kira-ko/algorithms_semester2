@@ -4,8 +4,11 @@
 
 ### Навигация по репозиторию:
 лабораторная работа №1: [lab1](https://github.com/kira-ko/algorithms_semester2/tree/main/lab1)
+
 лабораторная работа №2: [lab2](https://github.com/kira-ko/algorithms_semester2/tree/main/lab2)
+
 лабораторная работа №3: [lab3](https://github.com/kira-ko/algorithms_semester2/tree/main/lab3)
+
 лабораторная работа №4: [lab4]()
 
 ## Описание
