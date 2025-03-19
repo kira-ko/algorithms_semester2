@@ -56,7 +56,7 @@ if __name__ == "__main__":
             adj[u - 1].append(v - 1)  # Добавляем ребро в список смежности
 
     # Решаем задачу
-    result = tarjan_scc(n, adj)
+    result = one_way_city(n, adj)
 
     # Запись результата в файл
     with open('../txtf/output.txt', 'w') as file:
