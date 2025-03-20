@@ -9,7 +9,7 @@
 
 лабораторная работа №3: [lab3](https://github.com/kira-ko/algorithms_semester2/tree/main/lab3)
 
-лабораторная работа №4: [lab4]()
+лабораторная работа №4: [lab4](https://github.com/kira-ko/algorithms_semester2/tree/main/lab4)
 
 ## Описание
 ### Цели и задачи
